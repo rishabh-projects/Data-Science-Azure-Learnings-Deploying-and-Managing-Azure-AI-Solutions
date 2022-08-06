@@ -1,2 +1,2 @@
 ## Data Science Azure Learnings
-## Azure AI Solutions
+## Deploying and Managing Azure AI Solutions
